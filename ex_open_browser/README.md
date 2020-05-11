@@ -16,3 +16,6 @@ browser.get("http://www.example.com")
 
 ## Example Open Browser with Selenium:
 Open ChromeDriver and load URL: [open_browser.py](https://github.com/YonathanGuez/selenium_jobs/tree/master/ex_open_browser/open_browser.py)
+
+
+[![](https://i.ytimg.com/vi/npgMwfxe7Nw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA2UuEfsYTVCxl8JD2OU9yuAv3PHQ)](https://youtu.be/npgMwfxe7Nw)
