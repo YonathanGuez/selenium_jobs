@@ -1,0 +1,10 @@
+[
+    {
+        "domain": ".www.example.com",
+        "httpOnly": false,
+        "name": "key",
+        "path": "/",
+        "secure": false,
+        "value": "value"
+    }
+]
