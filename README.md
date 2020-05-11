@@ -16,7 +16,7 @@ C:/chromedriver/
 ```
 
 ## How to use Cookies with Selenium:
-[ex_cookies](https://github.com/YonathanGuez/selenium_jobs/ex_cookies/).
+create and load Cookies (ex Jsonfile) : [ex_cookies](https://github.com/YonathanGuez/selenium_jobs/tree/master/ex_cookies).
 
 
    
