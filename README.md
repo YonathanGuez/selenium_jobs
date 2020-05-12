@@ -23,6 +23,11 @@ Open ChromeDriver and load URL: [ex_open_browser](https://github.com/YonathanGue
 </a>
 ## How to set Cookies with Selenium:
 Create and load Cookies (ex Jsonfile) : [ex_cookies](https://github.com/YonathanGuez/selenium_jobs/tree/master/ex_cookies)
+<a href="https://youtu.be/qA1r44yZ0H0">
+    <p align="center">
+      <img width="246" height="150" src="https://i.ytimg.com/vi/qA1r44yZ0H0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAlqvmXlMmNt9_4cbJD7-qfGSOURw">
+    </p>
+</a>
 
 ## how to set User Agent with Selenium:
 Set my User Agent of my Browser (ex Jsonfile) : [ex_user_agent](https://github.com/YonathanGuez/selenium_jobs/tree/master/ex_user_agent).
