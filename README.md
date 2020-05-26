@@ -31,6 +31,10 @@ Create and load Cookies (ex Jsonfile) : [ex_cookies](https://github.com/Yonathan
 
 ## how to set User Agent with Selenium:
 Set my User Agent of my Browser (ex Jsonfile) : [ex_user_agent](https://github.com/YonathanGuez/selenium_jobs/tree/master/ex_user_agent).
-
+<a href="https://youtu.be/KwfbtmMPgog">
+    <p align="center">
+      <img width="246" height="150" src="https://i9.ytimg.com/vi/KwfbtmMPgog/mqdefault.jpg?time=1590500776134&sqp=CNy6tPYF&rs=AOn4CLC-vj0L27FiQO6IrlTvXXwlU4hYUg">
+    </p>
+</a>
 
    

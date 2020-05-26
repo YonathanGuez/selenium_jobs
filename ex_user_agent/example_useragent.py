@@ -4,7 +4,8 @@ from selenium.webdriver.chrome.options import Options
 def test1():
     print("test1 : With modification of my user agent")
     opts = Options()
-    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36'
+    user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1"
+    # user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36'
     opts.add_argument("user-agent=" + user_agent)
     opts.add_argument('headless')
     browser = webdriver.Chrome(chrome_options=opts, executable_path='C:/chromedriver/chromedriver.exe')
